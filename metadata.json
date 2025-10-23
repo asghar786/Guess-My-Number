@@ -1,0 +1,5 @@
+{
+  "name": "Guess the Number Game",
+  "description": "A beautiful and responsive game where the user tries to guess a secret number between 0 and 99 within 7 attempts. The app provides feedback on whether the guess is too high or too low.",
+  "requestFramePermissions": []
+}
